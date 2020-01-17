@@ -13,7 +13,7 @@ Necessary commands include:
 
 The default parameters are:
 
-# Population Size - 500
+## Population Size - 500
 # Tournament Size - 20
 # Probability of most fit individual winning tournament - .75
 # Probability of Crossover - .65

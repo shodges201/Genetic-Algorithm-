@@ -13,11 +13,11 @@ Necessary commands include:
 
 The default parameters are:
 
-Population Size - 500
-Tournament Size - 20
-Probability of most fit individual winning tournament - .75
-Probability of Crossover - .65
-Probability of mutations - .2
-Percentage Elitism - 15%
-Crossover Points - 5
-Maximum Number of Generations - 1000
+# Population Size - 500
+# Tournament Size - 20
+# Probability of most fit individual winning tournament - .75
+# Probability of Crossover - .65
+# Probability of mutations - .2
+# Percentage Elitism - 15%
+# Crossover Points - 5
+# Maximum Number of Generations - 1000

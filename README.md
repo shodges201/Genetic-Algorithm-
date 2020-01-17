@@ -3,7 +3,7 @@ This study is a reproduction of the results and methodology detailed in the pape
 
 Run Python3 GeneticAlgorithm.py -h for a list of commands that can be used to change the parameters as well as the training text, encrypted text and the name of the output text file.
 
-For a more detailed breakdown of our results, and the details of genetic algorithms, check out our results here: . 
+For a more detailed breakdown of our results, and the details of genetic algorithms, check out our results [here](https://github.com/shodges201/Genetic-Algorithm-/blob/master/Final%20Report.pdf). 
 
 ## Required Paramaters
 

@@ -14,6 +14,7 @@ def preprocess(train):
             continue
         i = 0
         newLine = ""
+        # remove everything besides letters and spaces (punctuation, quotations, etc.)
         for char in line:
             if(char == ' '):
                 newLine = newLine + char
